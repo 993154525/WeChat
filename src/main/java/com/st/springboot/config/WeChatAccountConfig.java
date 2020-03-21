@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 import java.util.Map;
 
 /**
+ * AllClose
  * @author shaotian
  * @create 2020-03-11 14:25
  */
